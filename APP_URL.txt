@@ -1,1 +1,1 @@
-﻿PLACEHOLDER: https://demo-bxp6yd-webapp.azurewebsites.net
+https://uva-sds-gpt-bxp6yd.azurewebsites.net
