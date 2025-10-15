@@ -1,1 +1,0 @@
-This is a safe, read-only sandbox for the UVA SDS GPT shell tool.\n
